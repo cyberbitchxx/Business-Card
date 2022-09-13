@@ -33,7 +33,7 @@ struct ContentView: View {
                     Text("LinkedIn").bold().frame(width: 280, height: 50).foregroundColor(Color.white).background(Color.black).cornerRadius(12)
                 })
                 
-                Link(destination: URL(string:"https://https://github.com/cyberbitrix")!, label: {
+                Link(destination: URL(string:"https://github.com/cyberbitrix")!, label: {
                     Text("GitHub").bold().frame(width: 280, height: 50).foregroundColor(Color.white).background(Color.black).cornerRadius(12)
                 })
                 
